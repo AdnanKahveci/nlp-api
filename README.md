@@ -208,9 +208,3 @@ nlp-api/
 Web arayüzü varsayılan olarak http://localhost:5173 adresinde çalışacaktır.
 API ise http://localhost:8000 adresinde çalışacaktır.
 
-
-MIT License
-
-## İletişim
-
-[İletişim bilgileri] 
