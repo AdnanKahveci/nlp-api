@@ -105,23 +105,6 @@ nlp-api/
 The web interface will run at http://localhost:5173 by default.
 The API will run at http://localhost:8000.
 
-### Screenshots
-
-#### Main Interface
-[Screenshot of the main interface will be here]
-
-#### Analysis Results
-[Screenshot of analysis results will be here]
-
-### License
-
-MIT License
-
-### Contact
-
-[Contact information]
-
----
 
 ## Turkish
 
@@ -225,7 +208,6 @@ nlp-api/
 Web arayüzü varsayılan olarak http://localhost:5173 adresinde çalışacaktır.
 API ise http://localhost:8000 adresinde çalışacaktır.
 
-## Lisans
 
 MIT License
 
